@@ -1,0 +1,28 @@
+{
+  "name": "nuaudit-node-sdk",
+  "version": "0.3.0",
+  "description": "Nuaudit Node.js SDK",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "prepare": "npm run build",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuaudit/nuaudit-node-sdk.git"
+  },
+  "keywords": [
+    "Nuaudit",
+    "SDK"
+  ],
+  "author": "support@nuaudit.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nuaudit/nuaudit-node-sdk/issues"
+  },
+  "homepage": "https://github.com/nuaudit/nuaudit-node-sdk#readme",
+  "dependencies": {
+    "nuaudit-node-autogen": "^0.3.0"
+  }
+}
