@@ -1,6 +1,6 @@
 {
   "name": "nuaudit-node-sdk",
-  "version": "0.3.0",
+  "version": "0.17.0",
   "description": "Nuaudit Node.js SDK",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/nuaudit/nuaudit-node-sdk#readme",
   "dependencies": {
-    "nuaudit-node-autogen": "^0.3.0"
+    "nuaudit-node-autogen": "^0.17.0"
   }
 }

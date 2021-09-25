@@ -77,10 +77,10 @@ node-fetch@^2.6.0:
   resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.1.tgz#045bd323631f76ed2e2b55573394416b639a0052"
   integrity sha512-V4aYg89jEoVRxRb2fJdAg8FHvI7cEyYdVAh94HH0UIK8oJxUfkjlDQN9RbMx+bEjP7+ggMiFRprSti032Oipxw==
 
-nuaudit-node-autogen@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/nuaudit-node-autogen/-/nuaudit-node-autogen-0.3.0.tgz#a9edcfb8b69deaaf7daf273c7893450d82630361"
-  integrity sha512-rpOUT5Zgo7GJMEUzQkhCZVUVDoLykRE6Jp361bry+Sf3T/hkEzyguj4InPAUxFGLfcEQ/YAVdk3LzFZ43GeGaQ==
+nuaudit-node-autogen@^0.17.0:
+  version "0.17.0"
+  resolved "https://registry.yarnpkg.com/nuaudit-node-autogen/-/nuaudit-node-autogen-0.17.0.tgz#2a9abcd29131c9d29d5c6e1baf7acbd0eec6d808"
+  integrity sha512-kb6HgfgH+s0UdpTjzePz355MXaEf23lXPEjOc91yqhTICkNO2AO6BJ+lPTNTBAKq5QBuzwvpumeiTG7l7pPLDg==
   dependencies:
     "@types/node" "*"
     "@types/node-fetch" "^2.5.7"
