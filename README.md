@@ -1,5 +1,3 @@
-# nuaudit. Node.js SDK
-
 ## Installation
 
 `yarn install nuaudit-node-sdk`
